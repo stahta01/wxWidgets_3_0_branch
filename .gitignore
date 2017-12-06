@@ -430,3 +430,9 @@
 # /utils/wxrc/
 /utils/wxrc/*.sln
 /utils/wxrc/*.dsw
+
+# git lfs ignores
+/wxWidgets-3.0.3_headers/
+/wxMSW-3.0.3_gcc*/
+/lib/gcc*/
+/build/msw/gcc*/
